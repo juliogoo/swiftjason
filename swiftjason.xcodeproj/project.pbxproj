@@ -15,6 +15,7 @@
 		43546EAF1CD1D22E0006AA8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43546EAD1CD1D22E0006AA8B /* LaunchScreen.storyboard */; };
 		43546EBA1CD1D22E0006AA8B /* swiftjasonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43546EB91CD1D22E0006AA8B /* swiftjasonTests.swift */; };
 		43546EC51CD1D22E0006AA8B /* swiftjasonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43546EC41CD1D22E0006AA8B /* swiftjasonUITests.swift */; };
+		43546ED51CD1DB5E0006AA8B /* 029.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43546ED41CD1DB5E0006AA8B /* 029.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		43546EC01CD1D22E0006AA8B /* swiftjasonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftjasonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43546EC41CD1D22E0006AA8B /* swiftjasonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftjasonUITests.swift; sourceTree = "<group>"; };
 		43546EC61CD1D22E0006AA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43546ED41CD1DB5E0006AA8B /* 029.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 029.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		43546EB81CD1D22E0006AA8B /* swiftjasonTests */ = {
 			isa = PBXGroup;
 			children = (
+				43546ED41CD1DB5E0006AA8B /* 029.jpg */,
 				43546EB91CD1D22E0006AA8B /* swiftjasonTests.swift */,
 				43546EBB1CD1D22E0006AA8B /* Info.plist */,
 			);
@@ -242,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43546ED51CD1DB5E0006AA8B /* 029.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
